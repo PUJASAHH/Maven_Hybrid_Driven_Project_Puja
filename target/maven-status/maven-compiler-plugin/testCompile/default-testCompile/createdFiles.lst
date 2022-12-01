@@ -1,0 +1,16 @@
+testscripts\TestBase.class
+testscripts\LoginTest.class
+testscripts\Log4jDemo.class
+testscripts\MyTest3.class
+testscripts\DashboardTest.class
+testscripts\MyTest1.class
+testscripts\ChromeCapabilities.class
+testscripts\ScreenShotDemo.class
+testscripts\MyInfoSalaryTest.class
+testscripts\CalendarDemo.class
+testscripts\MissignLink.class
+testscripts\MyTest2.class
+testscripts\AutoComplete.class
+testscripts\WaitForPageLoadDemo.class
+testscripts\RetryDemo.class
+testscripts\MyInfoTest.class
